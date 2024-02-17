@@ -4,7 +4,7 @@
 -✨ [Active Directory Bulk User Creation](https://github.com/Raneish/Active-Directory-lab/blob/main/README.md)
 
 
--✨ [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] (https://github.com/Raneish/Active-Directory-lab/blob/main/README.md)
+-✨ [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] ()
 <h2> ✨ Certifications </h2>
 <h2>📺 Video Tutorials </h2>
 <h2> 🤳 Connect with me:</h2>
