@@ -8,10 +8,10 @@
 [linkedin]: https://linkedin.com/in/raneishchambers
 
 <h2> 🔭 I’m currently working on ... </h2>
- [Homelab for Active Directory & Identity management]
- [Powershell scripting]
- [Remote supporting tools]
- [Comptia A +]
+ Homelab for Active Directory & Identity management
+ Powershell scripting
+ Remote supporting tools
+ Comptia A +
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
