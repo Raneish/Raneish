@@ -1,17 +1,16 @@
 <h1>Hi, I'm Raneish! </h1>
 
-<h2>👨‍💻 Cybersecurity projects:</h2>
--✨ [Active Directory Bulk User Creation](https://github.com/Raneish/Active-Directory-lab/blob/main/README.md)
-
-
--✨ [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] ()
+<h2>👨‍💻**Projects**:</h2>
+-✨ 
+-✨  ()
 <h2> ✨ Certifications </h2>
-<h2>📺 Video Tutorials </h2>
 <h2> 🤳 Connect with me:</h2>
-
-[youtube]: https://www.youtube.com/@RansBlogs
 [linkedin]: https://linkedin.com/in/raneishchambers
-
+</h> 🔭 I’m currently working on ... </h2>
+ Homelab for Active Directory & Identity management 
+ Powershell scripting
+ Remote supporting tools.
+ Comptia A +
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
