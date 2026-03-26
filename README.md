@@ -6,11 +6,12 @@
 <h2> ✨ Certifications </h2>
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/raneishchambers
-</h> 🔭 I’m currently working on ... </h2>
- Homelab for Active Directory & Identity management 
- Powershell scripting
- Remote supporting tools.
- Comptia A +
+
+<h2> 🔭 I’m currently working on ... </h2>
+ [Homelab for Active Directory & Identity management]
+ [Powershell scripting]
+ [Remote supporting tools]
+ [Comptia A +]
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
