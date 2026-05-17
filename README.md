@@ -115,6 +115,18 @@ Breaking Into IT Support: What a Datacom Service Desk Simulation Taught Me
 
 </details>
 
+<details>
+<summary>✍️ Articles & Technical Content</summary>
+
+<br>
+
+- 📝 [Building a Microsoft 365 Identity management lab from scratch](https://medium.com/@RaneishC/building-a-microsoft-365-identity-management-lab-from-scratch-dc9c6f111f76)
+- 📝 [Navigating tickets in SpiceWorks](https://medium.com/@RaneishC/navigating-tickets-in-spiceworks-51589a2e337b)
+
+🔗 [View All Articles on Medium](https://medium.com/@RaneishC)
+
+</details>
+
 ---
 
 <details>
@@ -150,7 +162,9 @@ Breaking Into IT Support: What a Datacom Service Desk Simulation Taught Me
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
-
+<a href="https://medium.com/@RaneishC">
+  <img src="https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 ---
 
 <div align="center">
