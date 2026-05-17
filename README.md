@@ -109,9 +109,9 @@ Scripts created for:
 
 Breaking Into IT Support: What a Datacom Service Desk Simulation Taught Me
 
-🔗 [View Project]()
+🔗 [View Project](datacom-service-desk-simulation)
 
-📁 **Repository:** `technical-writeups`
+📁 **Repository:** [technical-writeup] (https://github.com/Raneish/Technical-Write-up-Documentation.git)
 
 </details>
 
