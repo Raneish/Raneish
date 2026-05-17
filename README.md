@@ -105,11 +105,11 @@ Scripts created for:
 <br>
 
 ### Documentation Projects
-- Active Directory Homelab Documentation
-- PowerShell Automation Notes
-- Printer Troubleshooting Guide
-- Helpdesk Troubleshooting Playbooks
-- Networking Fundamentals Notes
+- ### 💻 Datacom Service Desk Simulation
+
+Breaking Into IT Support: What a Datacom Service Desk Simulation Taught Me
+
+🔗 [View Project]()
 
 📁 **Repository:** `technical-writeups`
 
