@@ -56,7 +56,7 @@ Hands-on Microsoft 365 environment built to practice:
 - Security and compliance configurations
 - Microsoft 365 admin workflows
 
-**Repository:** [Microsoft 365 Admin & Security Lab](https://github.com/Raneish/microsoft365-admin-security-lab)
+**Repository:** [Microsoft 365 Admin & Security Lab](https://github.com/Raneish/microsoft-365-admin-security-lab.git)
 ---
 
 ### 🏢 Active Directory Homelab *(In Progress)*
