@@ -59,6 +59,11 @@ Hands-on Microsoft 365 environment built to practice:
 **Repository:** [Microsoft 365 Admin & Security Lab](https://github.com/Raneish/microsoft-365-admin-security-lab.git)
 ---
 
+### 🤖 Computing Historian AI Agent
+An AI agent specialising in computing history, built with Azure AI Foundry and Python as part of Microsoft Learn Skills Fest 2026.
+[View Repository](https://github.com/Raneish/computing-historian-agent)
+
+---
 ### 🏢 Active Directory Homelab *(In Progress)*
 Windows Server lab environment focused on:
 
@@ -72,6 +77,7 @@ Windows Server lab environment focused on:
 **Repository:** `active-directory-homelab`
 
 ---
+
 
 ### ⚙️ PowerShell Automation Scripts *(In Progress)*
 Scripts created for:
