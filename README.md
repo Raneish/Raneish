@@ -98,7 +98,7 @@ Scripts created for:
 - ✅ Jira Service Management Fundamentals — Atlassian
 - ✅ Computer Hardware Basics & Operating Systems — Cisco
 - ✅ IBM AI Fundamentals — IBM
-- 🔄 Networking Basics — Cisco *(In Progress)*
+- 🔄 Networking Basics — Cisco
 - 🔄 PowerShell Scripting *(Self-Study / In Progress)*
 
 📁 **Repository:** `certifications`
